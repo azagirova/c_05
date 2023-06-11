@@ -1,0 +1,15 @@
+/Users/asya/Desktop/Examples/examle005_if/obj/Debug/net6.0/examle005_if.csproj.AssemblyReference.cache
+/Users/asya/Desktop/Examples/examle005_if/obj/Debug/net6.0/examle005_if.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asya/Desktop/Examples/examle005_if/obj/Debug/net6.0/examle005_if.AssemblyInfoInputs.cache
+/Users/asya/Desktop/Examples/examle005_if/obj/Debug/net6.0/examle005_if.AssemblyInfo.cs
+/Users/asya/Desktop/Examples/examle005_if/obj/Debug/net6.0/examle005_if.csproj.CoreCompileInputs.cache
+/Users/asya/Desktop/Examples/examle005_if/bin/Debug/net6.0/examle005_if
+/Users/asya/Desktop/Examples/examle005_if/bin/Debug/net6.0/examle005_if.deps.json
+/Users/asya/Desktop/Examples/examle005_if/bin/Debug/net6.0/examle005_if.runtimeconfig.json
+/Users/asya/Desktop/Examples/examle005_if/bin/Debug/net6.0/examle005_if.dll
+/Users/asya/Desktop/Examples/examle005_if/bin/Debug/net6.0/examle005_if.pdb
+/Users/asya/Desktop/Examples/examle005_if/obj/Debug/net6.0/examle005_if.dll
+/Users/asya/Desktop/Examples/examle005_if/obj/Debug/net6.0/refint/examle005_if.dll
+/Users/asya/Desktop/Examples/examle005_if/obj/Debug/net6.0/examle005_if.pdb
+/Users/asya/Desktop/Examples/examle005_if/obj/Debug/net6.0/examle005_if.genruntimeconfig.cache
+/Users/asya/Desktop/Examples/examle005_if/obj/Debug/net6.0/ref/examle005_if.dll
