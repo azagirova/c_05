@@ -1,0 +1,15 @@
+/Users/asya/Desktop/Examples/example007_dots/bin/Debug/net6.0/example007_dots
+/Users/asya/Desktop/Examples/example007_dots/bin/Debug/net6.0/example007_dots.deps.json
+/Users/asya/Desktop/Examples/example007_dots/bin/Debug/net6.0/example007_dots.runtimeconfig.json
+/Users/asya/Desktop/Examples/example007_dots/bin/Debug/net6.0/example007_dots.dll
+/Users/asya/Desktop/Examples/example007_dots/bin/Debug/net6.0/example007_dots.pdb
+/Users/asya/Desktop/Examples/example007_dots/obj/Debug/net6.0/example007_dots.csproj.AssemblyReference.cache
+/Users/asya/Desktop/Examples/example007_dots/obj/Debug/net6.0/example007_dots.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asya/Desktop/Examples/example007_dots/obj/Debug/net6.0/example007_dots.AssemblyInfoInputs.cache
+/Users/asya/Desktop/Examples/example007_dots/obj/Debug/net6.0/example007_dots.AssemblyInfo.cs
+/Users/asya/Desktop/Examples/example007_dots/obj/Debug/net6.0/example007_dots.csproj.CoreCompileInputs.cache
+/Users/asya/Desktop/Examples/example007_dots/obj/Debug/net6.0/example007_dots.dll
+/Users/asya/Desktop/Examples/example007_dots/obj/Debug/net6.0/refint/example007_dots.dll
+/Users/asya/Desktop/Examples/example007_dots/obj/Debug/net6.0/example007_dots.pdb
+/Users/asya/Desktop/Examples/example007_dots/obj/Debug/net6.0/example007_dots.genruntimeconfig.cache
+/Users/asya/Desktop/Examples/example007_dots/obj/Debug/net6.0/ref/example007_dots.dll
